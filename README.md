@@ -1,4 +1,4 @@
-# vue-demo-1
+# vue-workshop-cmdev
 
 ## Project setup
 ```
